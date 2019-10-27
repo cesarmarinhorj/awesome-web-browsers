@@ -57,6 +57,8 @@
 ## Text Editor Browsers
 - VS Code
 	- [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
+	-[Gitpod](http://gitpod.io)
+	-[Theia IDE](https://theia-ide.org/)
 - Atom Editor
 	- [browser-blus](https://atom.io/packages/browser-plus)
 	- [atom-browser](https://github.com/sean-codes/atom-browser)
